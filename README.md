@@ -13,8 +13,10 @@ Passos Usados para elaboração do Projeto de Análise:
 - Gráficos
 - Relatório final.
 
-Biliotecas usadas:
-- panda
+Bibliotecas usadas:
+- pandas
 - plotly 
 
-Para edições no grafico foi usado como base o site htpp://plotly.com/python/histograms/
+Para edições no gráfico foi usado como base o site htpp://plotly.com/python/histograms/
+
+Link - https://www.hashtagtreinamentos.com/
