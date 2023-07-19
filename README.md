@@ -1,5 +1,5 @@
 # Analise-de-Dados- <div style="display: inline"> 
-<img width="80" height="80" ![image](https://github.com/mircothibes/Analise-de-Dados-/assets/120477644/2826ba0a-cc7a-47a9-96fb-0a59497b7189) /> 
+<img width="80" height="80" src= "https://github.com/mircothibes/Analise-de-Dados-/assets/120477644/2826ba0a-cc7a-47a9-96fb-0a59497b7189" /> 
 </div> 
 
 
