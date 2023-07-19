@@ -1,6 +1,6 @@
 # Analise-de-Dados- 
 <div style="display: inline"> 
-<img width="50" height="50" src=![image](https://github.com/mircothibes/Analise-de-Dados-/assets/120477644/2826ba0a-cc7a-47a9-96fb-0a59497b7189) /> 
+<img width="70" height="70" src=![image](https://github.com/mircothibes/Analise-de-Dados-/assets/120477644/2826ba0a-cc7a-47a9-96fb-0a59497b7189) /> 
 </div> 
 
 
