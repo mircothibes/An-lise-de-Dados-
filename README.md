@@ -19,4 +19,4 @@ Bibliotecas usadas:
 
 Para edições no gráfico foi usado como base o site htpp://plotly.com/python/histograms/
 
-Link - https://www.hashtagtreinamentos.com/
+
