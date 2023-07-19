@@ -1,4 +1,4 @@
-# Analise-de-Dados-  ![image](https://github.com/mircothibes/Analise-de-Dados-/assets/120477644/2826ba0a-cc7a-47a9-96fb-0a59497b7189)
+# Analise-de-Dados- <img width="70" height="70" ![image](https://github.com/mircothibes/Analise-de-Dados-/assets/120477644/2826ba0a-cc7a-47a9-96fb-0a59497b7189) />
 
 
 Projeto construído para análise de dados de uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
