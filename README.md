@@ -19,4 +19,7 @@ Bibliotecas usadas:
 
 Para edições no gráfico foi usado como base o site htpp://plotly.com/python/histograms/
 
+![image](https://github.com/mircothibes/Analise-de-Dados-/assets/120477644/a750a728-9d2d-4a41-9a48-faecc9739362)
+
+
 
